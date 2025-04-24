@@ -16,6 +16,7 @@ VALUES
 (103, 'Emily Clark', 'Phone');
 
 
+-- Question 2: Achieving 2NF (Second Normal Form)
 
 -- Create a Customer table (no partial dependency)
 CREATE TABLE Customers (
